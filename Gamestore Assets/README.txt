@@ -1,0 +1,1 @@
+The GAMESTORE folder goes into the uniserv->www->store folder
