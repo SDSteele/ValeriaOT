@@ -74,30 +74,30 @@ magicLevelStages = {
 	{
 		minlevel = 0,
 		maxlevel = 60,
-		multiplier = 10,
+		multiplier = 7
 	},
 	{
 		minlevel = 61,
 		maxlevel = 80,
-		multiplier = 7,
+		multiplier = 4
 	},
 	{
 		minlevel = 81,
 		maxlevel = 100,
-		multiplier = 5,
+		multiplier = 2.5,
 	},
 	{
 		minlevel = 101,
 		maxlevel = 110,
-		multiplier = 4,
+		multiplier = 1.50,
 	},
 	{
 		minlevel = 111,
 		maxlevel = 125,
-		multiplier = 3,
+		multiplier = 1.25,
 	},
 	{
 		minlevel = 126,
-		multiplier = 2,
+		multiplier = 1
 	},
 }
